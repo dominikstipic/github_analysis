@@ -1,0 +1,9 @@
+https://github.com/pytorch/pytorch.git
+https://github.com/tensorflow/tensorflow.git
+https://github.com/scikit-learn/scikit-learn.git
+https://github.com/ggml-org/llama.cpp.git
+https://github.com/spring-projects/spring-framework
+https://github.com/apache/kafka
+https://github.com/django/django
+https://github.com/google/guava.git
+https://github.com/google/dagger
